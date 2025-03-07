@@ -4,6 +4,8 @@
 
 package com.mycompany.wrex;
 
+import javax.swing.SwingUtilities;
+
 /**
  *
  * @author CL3-PC09
@@ -11,6 +13,6 @@ package com.mycompany.wrex;
 public class Wrex {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+      
     }
 }
